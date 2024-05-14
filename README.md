@@ -7,6 +7,8 @@ Conceitos Avançados: Estude tópicos como closures, promises, async/await, mód
 Livros e Cursos:
 Livro: "You Don't Know JS" de Kyle Simpson
 Curso: JavaScript: The Advanced Concepts no Udemy
+
+
 2. Frameworks e Bibliotecas Front-end
 React: Popular e amplamente usado no mercado.
 Curso: React - The Complete Guide no Udemy
@@ -16,20 +18,26 @@ Curso: Vue - The Complete Guide no Udemy
 Documentação Oficial: Vue.js Documentation
 Angular: Um framework mais robusto, ideal para grandes aplicações.
 Curso: Angular - The Complete Guide no Udemy
-Documentação Oficial: Angular Documentation
-3. Desenvolvimento Back-end
+Documentação Oficial: Angular Documentation.
+
+
+4. Desenvolvimento Back-end
 Node.js: Permite usar JavaScript no lado do servidor.
 Curso: The Complete Node.js Developer Course no Udemy
 Documentação Oficial: Node.js Documentation
 Express.js: Um framework minimalista para Node.js.
 Curso: Node.js and Express.js - Full Course no freeCodeCamp YouTube channel
-Documentação Oficial: Express Documentation
-4. Bancos de Dados
+Documentação Oficial: Express Documentation.
+
+
+6. Bancos de Dados
 SQL: Para bancos de dados relacionais como PostgreSQL ou MySQL.
 Curso: The Complete SQL Bootcamp no Udemy
 NoSQL: Para bancos de dados não relacionais como MongoDB.
-Curso: MongoDB - The Complete Developer's Guide no Udemy
-5. Ferramentas e Tecnologias Complementares
+Curso: MongoDB - The Complete Developer's Guide no Udemy.
+
+
+8. Ferramentas e Tecnologias Complementares
 Git e GitHub: Controle de versão e colaboração.
 Curso: Git & GitHub - The Complete Guide no Udemy
 Documentação Oficial: Git Documentation
@@ -39,7 +47,7 @@ Documentação Oficial: Webpack Documentation
 Docker: Containerização de aplicações.
 Curso: Docker for Developers no Udemy
 Documentação Oficial: Docker Documentation
-6. Práticas Avançadas de Desenvolvimento
+9. Práticas Avançadas de Desenvolvimento
 Testes Automatizados:
 
 Jest: Para testes unitários em JavaScript.
@@ -53,6 +61,8 @@ Desenvolvimento Baseado em Componentes:
 Storybook: Uma ferramenta para desenvolver componentes de interface isoladamente.
 Curso: Design Systems with Storybook no Udemy
 Documentação Oficial: Storybook Documentation
+
+
 7. Projetos e Contribuições
 Projetos Pessoais: Crie projetos próprios para aplicar o que você aprende. Exemplos incluem portfólios, blogs, aplicativos simples, etc.
 Contribuições Open Source: Participe de projetos open source no GitHub para ganhar experiência prática e colaborar com outros desenvolvedores.
